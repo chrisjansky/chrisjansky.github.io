@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="712px" height="442px" viewBox="0 0 712 442" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Graph-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="HP-Graph-9" sketch:type="MSArtboardGroup" transform="translate(-280.000000, -488.000000)">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(278.000000, 488.000000)">
+                <g id="X-Axis" transform="translate(0.000000, 417.000000)" font-weight="473" font-family="P22 Underground Pro" line-spacing="12" letter-spacing="0.5" sketch:type="MSTextLayer" sketch:alignment="middle" font-size="10" fill="#B39676">
+                    <text id="1988" transform="translate(661.727922, 13.727922) rotate(-315.000000) translate(-661.727922, -13.727922) ">
+                        <tspan x="650.987922" y="14.7279221">2014</tspan>
+                    </text>
+                    <text id="2012" transform="translate(612.020815, 14.020815) rotate(-315.000000) translate(-612.020815, -14.020815) ">
+                        <tspan x="602.095815" y="15.0208153">2012</tspan>
+                    </text>
+                    <text id="2010" transform="translate(563.374369, 14.374369) rotate(-315.000000) translate(-563.374369, -14.374369) ">
+                        <tspan x="553.024369" y="15.3743687">2010</tspan>
+                    </text>
+                    <text id="2008" transform="translate(513.435029, 14.435029) rotate(-315.000000) translate(-513.435029, -14.435029) ">
+                        <tspan x="501.800029" y="15.4350288">2008</tspan>
+                    </text>
+                    <text id="2006" transform="translate(462.435029, 14.435029) rotate(-315.000000) translate(-462.435029, -14.435029) ">
+                        <tspan x="450.720029" y="15.4350288">2006</tspan>
+                    </text>
+                    <text id="2004" transform="translate(410.788582, 13.788582) rotate(-315.000000) translate(-410.788582, -13.788582) ">
+                        <tspan x="398.523582" y="14.7885822">2004</tspan>
+                    </text>
+                    <text id="2002" transform="translate(359.081475, 14.081475) rotate(-315.000000) translate(-359.081475, -14.081475) ">
+                        <tspan x="347.631475" y="15.0814755">2002</tspan>
+                    </text>
+                    <text id="2000" transform="translate(308.435029, 14.435029) rotate(-315.000000) translate(-308.435029, -14.435029) ">
+                        <tspan x="296.560029" y="15.4350288">2000</tspan>
+                    </text>
+                    <text id="1998" transform="translate(258.374369, 14.374369) rotate(-315.000000) translate(-258.374369, -14.374369) ">
+                        <tspan x="248.259369" y="15.3743687">1998</tspan>
+                    </text>
+                    <text id="1996" transform="translate(209.374369, 14.374369) rotate(-315.000000) translate(-209.374369, -14.374369) ">
+                        <tspan x="199.079369" y="15.3743687">1996</tspan>
+                    </text>
+                    <text id="1994" transform="translate(159.727922, 13.727922) rotate(-315.000000) translate(-159.727922, -13.727922) ">
+                        <tspan x="148.982922" y="14.7279221">1994</tspan>
+                    </text>
+                    <text id="1992" transform="translate(110.374369, 14.374369) rotate(-315.000000) translate(-110.374369, -14.374369) ">
+                        <tspan x="100.344369" y="15.3743687">1992</tspan>
+                    </text>
+                    <text id="1990" transform="translate(61.374369, 14.374369) rotate(-315.000000) translate(-61.374369, -14.374369) ">
+                        <tspan x="50.9193687" y="15.3743687">1990</tspan>
+                    </text>
+                    <text id="1988" transform="translate(12.374369, 14.374369) rotate(-315.000000) translate(-12.374369, -14.374369) ">
+                        <tspan x="2.33936867" y="15.3743687">1988</tspan>
+                    </text>
+                </g>
+                <g id="Horz-Grid" transform="translate(2.000000, 2.000000)" fill="#F5F3F0" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-17" x="0" y="0" width="660" height="2"></rect>
+                    <rect id="Rectangle-17-Copy" x="0" y="98" width="660" height="2"></rect>
+                    <rect id="Rectangle-17-Copy-2" x="0" y="196" width="660" height="2"></rect>
+                    <rect id="Rectangle-17-Copy-3" x="0" y="294" width="660" height="2"></rect>
+                    <rect id="Rectangle-17-Copy-4" x="0" y="392" width="660" height="2"></rect>
+                </g>
+                <text id="Y-Axis" sketch:type="MSTextLayer" font-family="P22 Underground Pro" font-size="10" font-weight="473" sketch:alignment="right" line-spacing="10" letter-spacing="0.5" fill="#B39676">
+                    <tspan x="691" y="8">1000</tspan>
+                </text>
+                <text id="Y-Axis-Copy" sketch:type="MSTextLayer" font-family="P22 Underground Pro" font-size="10" font-weight="473" sketch:alignment="right" line-spacing="10" letter-spacing="0.5" fill="#B39676">
+                    <tspan x="695" y="103">750</tspan>
+                </text>
+                <text id="Y-Axis-Copy-2" sketch:type="MSTextLayer" font-family="P22 Underground Pro" font-size="10" font-weight="473" sketch:alignment="right" line-spacing="10" letter-spacing="0.5" fill="#B39676">
+                    <tspan x="695" y="202">500</tspan>
+                </text>
+                <text id="Y-Axis-Copy-3" sketch:type="MSTextLayer" font-family="P22 Underground Pro" font-size="10" font-weight="473" sketch:alignment="right" line-spacing="10" letter-spacing="0.5" fill="#B39676">
+                    <tspan x="695" y="299">250</tspan>
+                </text>
+                <text id="Y-Axis-Copy-4" sketch:type="MSTextLayer" font-family="P22 Underground Pro" font-size="10" font-weight="473" sketch:alignment="right" line-spacing="10" letter-spacing="0.5" fill="#B39676">
+                    <tspan x="706" y="397">0</tspan>
+                </text>
+                <g id="Real-Estate-+-S&amp;P-+-TOP-3" transform="translate(14.000000, 11.000000)" sketch:type="MSShapeGroup">
+                    <path d="M0,366.932385 L62.6019422,324.921815 L141.694757,328.865845 L262.255688,313.4147 L394.427196,175.713387 L437.545139,75.0741419 L461.43673,59.4752805 L503.695774,135.327699 L579.186158,191.784941 L619.282508,124.810284 L650.52417,110.851076" id="Real-Estate" stroke="#C2C2C2" stroke-width="2"></path>
+                    <path d="M0,359.802644 L24.7361038,351.53738 L53.4548502,351.53738 L136.082932,336.775202 L165.643067,335.422735 L224.931613,310.194153 L307.075661,225.962506 L339.282858,214.145325 L393.084421,270.010667 L424.117457,272.265905 L450.779057,250.776895 L496.983547,238.466063 L534.571847,208.730385 L593.077619,275.187234 L649.588639,227.56856" id="S&amp;P" stroke="#8F8172" stroke-width="2"></path>
+                    <path d="M0,360.258699 L23.8805362,325.29788 L51.3332026,333.590793 L75.1440872,367.839337 L99.5088676,365.57956 L124.9433,374.615925 L176.351126,360.436767 L223.190145,359.817767 L249.913128,344.881195 L275.893161,348.73935 L323.912939,299.460961 L376.21463,306.185174 L420.04701,263.243811 L476.443231,27.3211303 L507.849453,47.8075088 L529.322035,175.868433 L565.086454,84.8585149 L599.262155,78.2106172 L651,0.759217797" id="TOP-3" stroke="#2F73C2" stroke-width="3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
